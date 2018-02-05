@@ -22,11 +22,7 @@
 
 #### 1.添加aar依赖：
 ```java
-```
-或者
-
-#### Maven
-```
+compile 'com.github.ximencx:Permissions:0.1
 ```
 #### 2.在Activity中添加如下代码：
 

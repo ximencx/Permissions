@@ -51,10 +51,10 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(activity, "failed===onRationale:::" + onRationale, Toast.LENGTH_SHORT).show();
                     }
                 }).request();
-        //跳转设置界面
-        PermissionUtils.goSettingActivity(activity,101);
-        //判断是否包含权限
-        PermissionUtils.hasPermission(activity, Arrays.asList(permissions));
+//        //跳转设置界面
+//        PermissionUtils.goSettingActivity(activity,101);
+//        //判断是否包含权限
+//        PermissionUtils.hasPermission(activity, Arrays.asList(permissions));
     }
 
     @Override
