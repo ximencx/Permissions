@@ -23,6 +23,12 @@
 #### 1.添加aar依赖：
 ```java
 compile 'com.github.ximencx:Permissions:0.1
+
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
 ```
 #### 2.在Activity中添加如下代码：
 
