@@ -1,4 +1,4 @@
-package com.xdja.permission;
+package com.xm.permission;
 
 import org.junit.Test;
 

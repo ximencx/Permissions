@@ -1,4 +1,4 @@
-package com.xdja.permission;
+package com.xm.permission;
 
 import android.Manifest;
 import android.app.Activity;
@@ -9,11 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.xdja.permissions.OnPermissionResult;
-import com.xdja.permissions.PermissionUtils;
-import com.xdja.permissions.PermissionsManager;
-
-import java.util.Arrays;
+import com.xm.permissions.OnPermissionResult;
+import com.xm.permissions.PermissionsManager;
 
 public class MainActivity extends AppCompatActivity {
     private Activity activity;

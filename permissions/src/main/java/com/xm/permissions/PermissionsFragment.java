@@ -1,4 +1,4 @@
-package com.xdja.permissions;
+package com.xm.permissions;
 
 import android.annotation.TargetApi;
 import android.app.Fragment;

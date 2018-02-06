@@ -1,4 +1,4 @@
-package com.xdja.permission;
+package com.xm.permission;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

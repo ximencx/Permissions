@@ -1,4 +1,4 @@
-package com.xdja.permissions;
+package com.xm.permissions;
 
 public class PermissionModel {
     public final String name;

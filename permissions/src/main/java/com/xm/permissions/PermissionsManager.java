@@ -12,7 +12,7 @@
  * limitations under the License.
  */
 
-package com.xdja.permissions;
+package com.xm.permissions;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

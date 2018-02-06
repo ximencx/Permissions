@@ -1,4 +1,4 @@
-package com.xdja.permissions;
+package com.xm.permissions;
 
 /**
  * created on 2018/2/5.
