@@ -22,7 +22,7 @@
 
 #### 1.添加aar依赖：
 ```java
-compile 'com.github.ximencx:Permissions:0.1
+compile 'com.github.ximencx:Permissions:0.2
 
 allprojects {
     repositories {
