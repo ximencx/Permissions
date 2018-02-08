@@ -70,7 +70,7 @@ allprojects {
 #### 大功告成~
 
 #### 3.对使用还有疑问的话，可参考Demo代码
-[请戳我查看demo代码](https://github.com/ximencx/Permissions/blob/master/sample/src/main/java/com/xdja/permission/MainActivity.java)
+[请戳我查看demo代码](https://github.com/ximencx/Permissions/blob/master/sample/src/main/java/com/xm/permission/MainActivity.java)
 
 
 ### Thanks
